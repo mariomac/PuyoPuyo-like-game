@@ -8,7 +8,6 @@ Two easy ways:
 1 - Import project from netbeans and run it
 2 - From console, go to the folder where this file is and type: ant run
 
-
 Game Rules
 ----------
 Join groups of faces of the same color. When 4 faces of the same color are in
