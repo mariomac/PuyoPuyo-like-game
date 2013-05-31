@@ -32,3 +32,7 @@ the game 100% accurate. There are some possible future improvements:
 - Better controls
 - Better graphics
 - Sound
+
+Screen capture
+--------------
+![Screen capture](shot.png "Screen capture")
