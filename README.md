@@ -17,10 +17,10 @@ The more faces you join, the higher scoring. Do combos to multiply scoring.
 
 Game Controls
 -------------
-CURSOR LEFT  - move piece left
-CURSOR RIGHT - move piece right
-CURSOR UP    - rotate piece
-CURSOR DOWN  - drop piece
+- CURSOR LEFT: move piece left
+- CURSOR RIGHT: move piece right
+- CURSOR UP: rotate piece
+- CURSOR DOWN: drop piece
 
 Some comments
 -------------
