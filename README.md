@@ -5,7 +5,9 @@ PUYO-PUYO-like game
 Compiling and Running Game
 --------------------------
 Two easy ways:
+
 1 - Import project from netbeans and run it
+
 2 - From console, go to the folder where this file is and type: ant run
 
 
