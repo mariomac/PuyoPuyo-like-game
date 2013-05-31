@@ -2,10 +2,14 @@ PUYO-PUYO-like game
 ===================
 2005 - Mario Macias Lloret
 
+![Screen capture](shot.png "Screen capture")
+
 Compiling and Running Game
 --------------------------
 Two easy ways:
+
 1 - Import project from netbeans and run it
+
 2 - From console, go to the folder where this file is and type: ant run
 
 Game Rules
@@ -16,10 +20,10 @@ The more faces you join, the higher scoring. Do combos to multiply scoring.
 
 Game Controls
 -------------
-CURSOR LEFT  - move piece left
-CURSOR RIGHT - move piece right
-CURSOR UP    - rotate piece
-CURSOR DOWN  - drop piece
+- CURSOR LEFT: move piece left
+- CURSOR RIGHT: move piece right
+- CURSOR UP: rotate piece
+- CURSOR DOWN: drop piece
 
 Some comments
 -------------
