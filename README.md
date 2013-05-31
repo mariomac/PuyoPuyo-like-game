@@ -2,6 +2,8 @@ PUYO-PUYO-like game
 ===================
 2005 - Mario Macias Lloret
 
+![Screen capture](shot.png "Screen capture")
+
 Compiling and Running Game
 --------------------------
 Two easy ways:
@@ -9,7 +11,6 @@ Two easy ways:
 1 - Import project from netbeans and run it
 
 2 - From console, go to the folder where this file is and type: ant run
-
 
 Game Rules
 ----------
@@ -34,7 +35,3 @@ the game 100% accurate. There are some possible future improvements:
 - Better controls
 - Better graphics
 - Sound
-
-Screen capture
---------------
-![Screen capture](shot.png "Screen capture")
