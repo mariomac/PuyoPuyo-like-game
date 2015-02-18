@@ -35,3 +35,6 @@ the game 100% accurate. There are some possible future improvements:
 - Better controls
 - Better graphics
 - Sound
+
+
+Si te gustan mis aportaciones a github, quizás te gustará mi libro [Del bit a la Nube](http://www.xaas.guru/del-bit-a-la-nube/)
